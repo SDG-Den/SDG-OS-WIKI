@@ -36,8 +36,8 @@ Together, sdgpkg and sdgbuild provide the following components:
 | sdg-themes | sdgtheme | auto-theming system for my mango config. handles colors, DMS config, borders and optionally fonts and sdgfetch config, includes a CLI for easily cloning the current theme to a new user theme as well as edit the current theme |
 | sdg-vox | sdgvox | configurable voice control system with a GUI, includes custom wakewords and various triggered actions |
 | sdg-glyphs | sdgglyphs | highly configurable glyph/symbol-based input and control system | 
-| sdg-wayshell | core daemon components allowing any command to be used as a dynamic shel component |
-| sdg-wayshell-conf | default configurations for wayshell providing volume and brightness sliders, a screenshot system and pinable bottom bar modules showing performance impact of your focused application as well as elevated applications
+| sdg-wayshell | wayshell | core daemon components allowing any command to be used as a dynamic shel component |
+| sdg-wayshell-conf | - | default configurations for wayshell providing volume and brightness sliders, a screenshot system and pinable bottom bar modules showing performance impact of your focused application as well as elevated applications
 | sdg-pkg | sdgpkg | package manager with simple repositories and branching capabilities | 
 | sdg-build | sdgbuild | build system for creating your own packages, handling updates/branching and locally building packages | 
 

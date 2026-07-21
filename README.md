@@ -90,6 +90,8 @@ A full system update using unipkg would look like this: `unipkg update all && un
 
 updates will not replace your config files, installs and builds will.
 
+you can also update individual packages using the `sdgpkg update <package name>` command
+
 
 ## uninstalling 
 
